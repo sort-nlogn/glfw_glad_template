@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "iostream": "cpp",
-        "glfw3.h": "c",
-        "glad.h": "c"
-    }
-}

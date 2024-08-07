@@ -1,1 +1,0 @@
-g++ main.cpp glad.c  -I ./include -ldl -lGL -lglfw -o main.exe

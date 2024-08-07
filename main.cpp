@@ -16,7 +16,7 @@ int main(void){
     }
 
 
-    GLFWwindow* window = glfwCreateWindow(800, 600, "OpenGL Example", NULL, NULL);
+    GLFWwindow* window = glfwCreateWindow(640, 480, "OpenGL Example", NULL, NULL);
     if (!window) {
         glfwTerminate();
         return -1;
